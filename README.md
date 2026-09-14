@@ -89,6 +89,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chazown&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&count_private=true" alt="chazown-top-langs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chazown&show_icons=true&locale=en&hide_border=true&bg_color=00000000&count_private=true" alt="chazown-stats" width="48%" />
+  <img src="./profile-summary-card-output/blueberry/1-repos-per-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/blueberry/2-most-commit-language.svg" width="48%" />
 </p>
